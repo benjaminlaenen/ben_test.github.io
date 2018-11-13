@@ -1,0 +1,1390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dat",
+				"data1"
+			],
+			[
+				"patter",
+				"pattern = \tArguments"
+			],
+			[
+				"fix",
+				"fixed = \tArguments"
+			],
+			[
+				"vcffil",
+				"vcf_file"
+			],
+			[
+				"refe",
+				"reference"
+			],
+			[
+				"vcf_fil",
+				"vcf_filtered\t(filterVCF_functions.R)"
+			],
+			[
+				"is.",
+				"is.null"
+			],
+			[
+				"window",
+				"windows_genome"
+			],
+			[
+				"Gran",
+				"Grange1"
+			],
+			[
+				"theta",
+				"thetaW"
+			],
+			[
+				"missin",
+				"missing_per_individual"
+			],
+			[
+				"missing",
+				"missing_pc"
+			],
+			[
+				"escap",
+				"escape_dropbox_pro_path\t(filterVCF_functions.R)"
+			],
+			[
+				"vcf",
+				"vcf_file"
+			],
+			[
+				"scal",
+				"scaled_rec"
+			],
+			[
+				"list.",
+				"list.files\t(filterVCF.R)"
+			],
+			[
+				"ele",
+				"elementMetadata\t(find_windows_rec_Gdens_similar_Slocus.R)"
+			],
+			[
+				"output",
+				"output_file"
+			],
+			[
+				"input",
+				"input_vcf"
+			],
+			[
+				"keep",
+				"keep_sites"
+			],
+			[
+				"Gr",
+				"Grange2bed\t(filterVCF_functions.R)"
+			],
+			[
+				"graphi",
+				"graphics.off\t(filterVCF_functions.R)"
+			],
+			[
+				"regex",
+				"regexpr\t{base}"
+			],
+			[
+				"bedf",
+				"bed_file"
+			],
+			[
+				"n",
+				"nrow"
+			],
+			[
+				"chr",
+				"chromosome\t(filterVCF.R)"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"wrt",
+				"write.table"
+			],
+			[
+				"swee",
+				"sweepfinder_input\t(filterVCF_functions.R)"
+			],
+			[
+				"write",
+				"write.table"
+			],
+			[
+				"sweep",
+				"sweepfinder"
+			],
+			[
+				"row.n",
+				"row.names = \tArguments"
+			],
+			[
+				"data.",
+				"data.frame"
+			],
+			[
+				"inv",
+				"invariant"
+			],
+			[
+				"by",
+				"byrow"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"elemen",
+				"elementMetadata"
+			],
+			[
+				"getfr",
+				"get_frequency\t{filterVCF}"
+			],
+			[
+				"outp",
+				"output_file"
+			],
+			[
+				"out",
+				"outfile"
+			],
+			[
+				"master",
+				"master_filter"
+			],
+			[
+				"maste",
+				"master_filter"
+			],
+			[
+				"paste",
+				"paste0\t(filterVCF.R)"
+			],
+			[
+				"nsam",
+				"nsample"
+			],
+			[
+				"nsa",
+				"nsample_filtered"
+			],
+			[
+				"attr",
+				"attributes\t{base}"
+			],
+			[
+				"nrow",
+				"nrow = \tArguments"
+			],
+			[
+				"remo",
+				"removed_sites"
+			],
+			[
+				"mas",
+				"master_filter"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"filter",
+				"filterVCF\tInstalled Package"
+			],
+			[
+				"slots",
+				"slots = \tArguments"
+			],
+			[
+				"quit",
+				"quiet = \tArguments"
+			],
+			[
+				"follo",
+				"following\t(filterVCF_functions.R)"
+			],
+			[
+				"min",
+				"min_DP"
+			],
+			[
+				"col",
+				"colnames"
+			],
+			[
+				"temp",
+				"tempfile\t{base}"
+			],
+			[
+				"extract_",
+				"extract_gt_ff"
+			],
+			[
+				"as.num",
+				"as.numeric = \tArguments"
+			],
+			[
+				"as.ff",
+				"as.ffdf\t{ff}"
+			],
+			[
+				"extrac",
+				"extract.gt"
+			],
+			[
+				"as.df",
+				"as.ffdf.data.frame\t{ff}"
+			],
+			[
+				"as.in",
+				"as.integer\t{base}"
+			],
+			[
+				"len",
+				"length\t(filterVCF.R)"
+			],
+			[
+				"repla",
+				"replace = \tArguments"
+			],
+			[
+				"ove",
+				"overwrite"
+			],
+			[
+				"Out",
+				"output"
+			],
+			[
+				"is",
+				"isTRUE"
+			],
+			[
+				"GATK",
+				"GATK_filter_name"
+			],
+			[
+				"std",
+				"stdout\t(dfe_alpha_for_R.R)"
+			],
+			[
+				"cle",
+				"cleaning"
+			],
+			[
+				"parse",
+				"parse_filter_high_DP_standardized"
+			],
+			[
+				"G",
+				"GRanges"
+			],
+			[
+				"addi",
+				"additional_Co_polymorphism"
+			],
+			[
+				"seq",
+				"seq_along"
+			],
+			[
+				"full",
+				"full.names = \tArguments"
+			],
+			[
+				"F",
+				"FALSE"
+			],
+			[
+				"ful",
+				"full.names = \tArguments"
+			],
+			[
+				"opt",
+				"option\t(filterVCF.R)"
+			],
+			[
+				"row.",
+				"row.names = \tArguments"
+			],
+			[
+				"quote",
+				"quote = \tArguments"
+			],
+			[
+				"cloese",
+				"close.connection\t{base}"
+			],
+			[
+				"inter",
+				"intersect\t(filterVCF.R)"
+			],
+			[
+				"div",
+				"div_cg_0"
+			],
+			[
+				"report",
+				"reports"
+			],
+			[
+				"norma",
+				"normalizePath\t{base}"
+			],
+			[
+				"set",
+				"setwd"
+			],
+			[
+				"recur",
+				"recursive = \tArguments"
+			],
+			[
+				"singl",
+				"single_chrom\t(filterVCF.R)"
+			],
+			[
+				"gzi",
+				"gzip_program\t(filterVCF.R)"
+			],
+			[
+				"single",
+				"single_chrom"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"bed_f",
+				"bed_files"
+			],
+			[
+				"split",
+				"split_VCF_filename"
+			],
+			[
+				"base",
+				"basename"
+			],
+			[
+				"vcf_file",
+				"vcf_file"
+			],
+			[
+				"vcf_copy",
+				"vcf_copy"
+			],
+			[
+				"split_vcf",
+				"split_vcf_by_chrom"
+			],
+			[
+				"file",
+				"file.size\t{base}"
+			],
+			[
+				"sin",
+				"single"
+			],
+			[
+				"last",
+				"last_chr"
+			],
+			[
+				"first",
+				"first_chr"
+			],
+			[
+				"gzip",
+				"gzip_program"
+			],
+			[
+				"chromo",
+				"chromosome"
+			],
+			[
+				"che",
+				"checking"
+			],
+			[
+				"esca",
+				"escape_dropbox_pro_path"
+			],
+			[
+				"Wi",
+				"WidthHTML=500"
+			],
+			[
+				"qui",
+				"quiet = \tArguments"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"comm",
+				"commandArgs\t(test.R)"
+			],
+			[
+				"SFS",
+				"SFS_report"
+			],
+			[
+				"xla",
+				"xlabels"
+			],
+			[
+				"prop",
+				"prop_SFS"
+			],
+			[
+				"names",
+				"names.arg"
+			],
+			[
+				"down",
+				"downsample_SFS"
+			],
+			[
+				"vcf_fl",
+				"vcf_filtered"
+			],
+			[
+				"mesa",
+				"message"
+			],
+			[
+				"repo",
+				"reports"
+			],
+			[
+				"thr",
+				"thresholdCI"
+			],
+			[
+				"vcf_bed",
+				"vcf_bed_GRange"
+			],
+			[
+				"write.vcf",
+				"write.vcf\t{vcfR}"
+			],
+			[
+				"vcf_in",
+				"vcf_inv_filtered"
+			],
+			[
+				"vcf2",
+				"vcf2Grange"
+			],
+			[
+				"is.n",
+				"is.null"
+			],
+			[
+				"parse_",
+				"parse_opt_sample"
+			],
+			[
+				"value",
+				"value = \tArguments"
+			],
+			[
+				"T",
+				"TRUE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SendREPL/R - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R/R.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set R",
+				"Set Syntax: R"
+			],
+			[
+				"function",
+				"R-Box: Extract Function from Selection"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"wr",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"sen",
+				"SendCode: Choose Program"
+			],
+			[
+				"wra",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"wrap",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"fold ",
+				"Code Folding: Refold"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bin",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"evernote",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever",
+				"Evernote: List recent notes"
+			],
+			[
+				"package f",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"previe",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"func",
+				"R-Box: Extract Function from Selection"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"set RT",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"trai",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"alignme",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"tab",
+				"AlignTab"
+			],
+			[
+				"collap",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git br",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"coll",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"extr",
+				"R-Box: Extract Function from Selection"
+			],
+			[
+				"source",
+				"Snippet: Source"
+			],
+			[
+				"se",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"find ",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"forma",
+				"R-Box: Format Selected Code"
+			],
+			[
+				"trail",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"extract",
+				"R-Box: Extract Function from Selection"
+			],
+			[
+				"Al",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"Send",
+				"SendCode: Choose Program"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"ch",
+				"Chmod…"
+			],
+			[
+				"chm",
+				"Chmod…"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"add cu",
+				"Git: Add Current File"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"a",
+				"Git: Add Current File"
+			],
+			[
+				"add all",
+				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"Repl",
+				"SublimeREPL: R"
+			],
+			[
+				"termi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"change b",
+				"Git: Change Branch"
+			],
+			[
+				"b",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"format",
+				"R-Box: Format Selected Code"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"Rbo",
+				"R-Box: Extract Function from Selection"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"sort ",
+				"Snippet: Reorder rows of dataframe"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"form",
+				"Format Arguments"
+			],
+			[
+				"q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"bran",
+				"Git: Delete Branch"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"gitp us",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"find",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"SEnd",
+				"SendCode: Choose REPL Program"
+			],
+			[
+				"sent",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"sort da",
+				"Snippet: Reorder rows of dataframe"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"order",
+				"Snippet: Reorder rows of dataframe"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"tri",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"git brn",
+				"Git: Change Branch"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"add c",
+				"Git: Add Current File"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl sh",
+				"SublimeREPL: Shell"
+			],
+			[
+				"tr",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"quot",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"sapce",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"Set Syn ",
+				"Set Syntax: R Extended"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"R",
+				"Set Syntax: R Extended"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"trim",
+				"Trimmer: Collapse spaces."
+			],
+			[
+				"convert",
+				"Color Convert: convert"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sentRepl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"ADD",
+				"Git: Add Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"autof",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"anaconda li",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"conda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"repl python",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl ",
+				"SublimeREPL: Python"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"mark styl",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"sublimeLin",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"git puh",
+				"Git: Push"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"repl R",
+				"SublimeREPL: R"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"synt r",
+				"Set Syntax: R"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"flak",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 532.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ben/Dropbox/Script/genomic_scripts/Rpackage/filterVCF/man/create_filter_META.Rd",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/input_DFE-alpha.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/sweepfinder/vcf2sweepfinder.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Rpackage/filterVCF/DESCRIPTION",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Default/Add Line in Braces.sublime-macro",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ben/Dropbox/Script/genomic_scripts/sweepfinder/get_recrates_sweepfinder.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/bootstrap_VCFSummary.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/Filtervcf/sweepfinder/vcf2sweepfinder.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Rpackage/filterVCF/NAMESPACE",
+		"/Users/ben/Desktop/test.R",
+		"/Users/ben/Dropbox (Personal)/Script/R/Ben_Rscript/basic/read_file_c++.R",
+		"/Users/ben/Dropbox (Slottelab)/Arabis/arabis_hets.R",
+		"/Users/ben/Dropbox (Personal)/Script/R/Ben_Rscript/NGS/readVCF_TVTB.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Filtervcf/filterVCF2.R",
+		"/Users/ben/Dropbox (Slottelab)/Arabis300/test/test_running_filterVCF.sh",
+		"/Users/ben/Desktop/test1.R",
+		"/Users/ben/Dropbox (Slottelab)/Arabis/Review/LD_decay/plot_LD_review_arabis.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/Rpackage/filterVCF_functions.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Filtervcf/filterVCF.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/GATK_HaplotypeCaller_JointGenotyper/GATK_HaplotypeCaller.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/get_input_Keightley2outgroups.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/dfe_alpha_for_R.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/getSFS.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/angsd2dfe_SFS.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/GATK_HaplotypeCaller_JointGenotyper/GATK_Jointgenotyp.R",
+		"/Users/ben/Dropbox (Personal)/Script/S-locus_script/map_seq2BAC.R",
+		"/Users/ben/Dropbox (Slottelab)/SHARED_FILES/get_newdivergence_2-08-2018.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/count_derived_allele_expression.py",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Filtervcf/polym_sites.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/getDivergence.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/plink_roh_analyzer.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/Filtervcf/filterVCF.R",
+		"/Users/ben/Library/Mail/V3/IMAP-benjamin.laenen@scilifelab.se@imap.gmail.com/[Gmail].mbox/All Mail.mbox/99F9D9FD-5B81-411B-9979-035680BCA92A/Data/0/6/9/Attachments/960124/2.2/genome_cov_windows.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/gamma_DFE.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/GATK_HaplotypeCaller_JointGenotyper/GATK_Jointgenotyp.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/getVCFSummary.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/2dSFS.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/DFE-alpha_results_analyzer.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/SLIM_SFS.txt",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/get_ancestral_fasta.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/recombination_rates.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/getPI.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/genome_cov_windows.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/example_mpi.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DP_plot.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/coverage.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/alpha_x.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/get_popstat_from_summary.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/summarize_popstat.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Filtervcf/getmissing.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/Filtervcf/polym_sites_mpi.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/parse_output_slim.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/slim_results_analyzer_arabis.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/snpeff/snpeff_pop.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/GATK_HaplotypeCaller_JointGenotyper/Mapping_reads_and_GATK_BQSR.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/getVCFSummary_mpi.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/sfs_correction_misinference_ancestral.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/detectAdapters.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/readgenome_extract_seq.R",
+		"/Users/ben/Dropbox (Slottelab)/Paper/ongoing/review_selfing/fig2/data_for_plot_fig2.R",
+		"/Users/ben/Dropbox (Personal)/Script/R/Ben_Rscript/genet_pop/distance genetique.R",
+		"/Users/ben/Dropbox (Slottelab)/Slocus/Alignment_BAC/alignment/final/alignment_BAC_timing_final_Co_shortreads.fasta",
+		"/Users/ben/Dropbox (Personal)/Script/R/Ben_Rscript/NGS/get_gene_name_blast.R",
+		"/Users/ben/Dropbox (Slottelab)/Slocus/BAC/orientalis_origins/SCR_protein_search/Cgr-B-H5-19I12_corrected_ARK3-PUB8.gff",
+		"/Users/ben/Dropbox (Slottelab)/Slocus/BAC/S-locus_annotation_FGENESH/126-1_At4g21320_At4g21390_corrected_orientation_FGENESH_annotated.gff",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/get_unfoldedSFS.py",
+		"/Users/ben/Dropbox (Slottelab)/Arabis/Review/fsc_simulation/plot_sfs_simulation_obs.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/arp2sfs_sumstats.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/downsample_SFS.R",
+		"/Users/ben/Dropbox (Slottelab)/ForBen/DFE/all_temp_script.R",
+		"/Users/ben/Dropbox (Slottelab)/Filip_results/DFE/plot_DFE_Aarenosa.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/slim_results_analyzer.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/cutadapt_illumina-adapter-list-full.conf",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/cutadapt_illumina-adapter-list-limited.conf",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/get_input_Slim.py",
+		"/Users/ben/Dropbox/Script/genomic_scripts/GATK_HaplotypeCaller_JointGenotyper/GATK_Jointgenotyp.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/get_genetic_load_from_genoMat.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+		"/usr/local/lib/python2.7/site-packages/rice/deps/prompt_toolkit/key_binding/key_bindings.py",
+		"/usr/local/lib/python2.7/site-packages/rice/instance.py",
+		"/Users/ben/Dropbox (Slottelab)/Capsela/DFE-alpha/dan_halligan_script/dfealpha_uppmax.pm",
+		"/Users/ben/Dropbox (Slottelab)/Capsela/DFE-alpha/dan_halligan_script/dfealpha_mod.pl",
+		"/Users/ben/Dropbox (Personal)/Script/linked-selection/get_input_Keightley2outgroups.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/cutadaptReportScript.R",
+		"/Users/ben/Dropbox (Personal)/Script/linked-selection/sfs_correction_misinference_ancestral.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/whole_genome_alignment/mc_axtchain.R",
+		"/Users/ben/Dropbox (Personal)/Script/genomic_scripts/DFE/include_bootstrap_divergence_dfe_input.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/snpeff/update_snpeff_ANN_vcf.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/whole_genome_alignment/CNEr_lastz_ArabisV5_Anormanniana.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/whole_genome_alignment/CNEr_lastz_ArabisV5_Amontbretianna.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/merged_fq.gz_different_runs.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/trimReads.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/doug_adapter_trimming_process/cutadaptReportScript.sh",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/change_init_file_name_changeME.R",
+		"/Users/ben/Dropbox/Aure_nrm/post-doc_Sweden/Dytiscus-dropbox/ecological_data/phylosig/test_K_egal_1.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/create_parsing_bash.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/snippet_slim_get_genetic_load",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/chromosome_element_slim.py",
+		"/Users/ben/Dropbox/Script/genomic_scripts/whole_genome_alignment/CNEr_lastz_Arabis.R",
+		"/Users/ben/Dropbox/Script/S-locus_script/search_sRNA_precursor_genes.py",
+		"/Users/ben/Dropbox/Arabis/slim/model/arabis_output_detail_2pop_2div_genetic_load.R",
+		"/Users/ben/init_10Ne_Aa.chr1/N1000/rep1/Aa.chr7/init_10Ne_Aa.chr1_N1000_rep1_Aa.chr7.input-slim",
+		"/Users/ben/Dropbox/Script/linked-selection/angsd2dfe_SFS.R",
+		"/Users/ben/Dropbox/Script/linked-selection/get_input_Keightley2outgroups.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/snpeff_pop.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/Users/ben/Dropbox/Script/genomic_scripts/DFE/DFE-alpha_results_bootstap_pvalue.R",
+		"/Users/ben/Dropbox/Arabis/Arabis_DFE/pop/plot_arabis_DFE.R",
+		"/Users/ben/Dropbox/Aure_nrm/post-doc_Sweden/Dytiscidae/sister_clade_habitat.R",
+		"/Users/ben/Desktop/ ParFileInterpreter-v6.r",
+		"/Users/ben/Dropbox/Script/popGenomStat/getPopstat.R",
+		"/Users/ben/Dropbox/Draft_PaperIII/DFE_results/plot_DFE.R",
+		"/Users/ben/Dropbox/Script/genomic_scripts/slim/plot_slim.R",
+		"/Users/ben/Dropbox/Draft_PaperIII/subsample_polymorphism_ASE_control/subsample_ASE_control_polymorphism.R",
+		"/Users/ben/Dropbox/Draft_PaperIII/Revision/plot_DFE_fitted-polym.R",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/CSS Color Converter/colorconvert.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/ben/Desktop/Course&conf/Denove_genome_assemble_2016/Day2_ex/Day2_Illumina_Assembly.sh",
+		"/Users/ben/Desktop/Course&conf/Denove_genome_assemble_2016/Day3_ex/Day3_assembly_validation.sh"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 28.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.git-merge":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 39.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Rmd_website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"getd",
+				"DFE/getDivergence.R"
+			],
+			[
+				"get_unfoldedsfs.py",
+				"DFE/get_unfoldedSFS.py"
+			],
+			[
+				"bootstr",
+				"DFE/bootstrap_VCFSummary.R"
+			],
+			[
+				"polym",
+				"Filtervcf/polym_sites.R"
+			],
+			[
+				"input",
+				"DFE/input_DFE-alpha.R"
+			],
+			[
+				"merg",
+				"merged_fq.gz_different_runs.R"
+			],
+			[
+				"",
+				"create_parsing_bash.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 470.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
